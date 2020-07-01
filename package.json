@@ -1,0 +1,27 @@
+{
+  "name": "node-run",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HUANGXUEZHI97/node-run.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HUANGXUEZHI97/node-run/issues"
+  },
+  "homepage": "https://github.com/HUANGXUEZHI97/node-run#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "koa": "^2.13.0",
+    "koa-router": "^9.1.0",
+    "koa-static": "^5.0.0",
+    "nodemon": "^2.0.4"
+  }
+}
